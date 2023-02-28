@@ -20,8 +20,8 @@ https://web2plus1.netlify.app/
 
 <h3><b>Stack:</b></h3>
 
-<b>1) React JS</b>
-<b>2) Solidity</b>
-<b>3) HTML5</b>
-<b>4) CSS3</b>
-<b>5) Javascript</b>
+<b>1) React JS</b> <br>
+<b>2) Solidity</b> <br>
+<b>3) HTML5</b> <br>
+<b>4) CSS3</b> <br>
+<b>5) Javascript</b> <br>
