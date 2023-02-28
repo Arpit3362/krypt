@@ -7,11 +7,11 @@ https://web2plus1.netlify.app/
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 <h3><b>Functionalities</b></h3>
-1. Secure
-2. Trustworthy
-3. End-to-End
-4. Faster Transaction Rate
-5. Efficient
-6. Different types of currencies
+1. Secure  <br>
+2. Trustworthy  <br>
+3. End-to-End  <br>
+4. Faster Transaction Rate  <br>
+5. Efficient  <br>
+6. Different types of currencies  <br>
 
 <b>This is a simplified, secure and trusted platform where a customer can easily sell and buy cryptocurrencies (Ethereum, Coin Base, etc) without any hassle.</b>
