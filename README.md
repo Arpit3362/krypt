@@ -6,7 +6,7 @@ https://web2plus1.netlify.app/
 
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-<b>Functionalities</b>
+<h3><b>Functionalities</b></h3>
 1. Secure
 2. Trustworthy
 3. End-to-End
