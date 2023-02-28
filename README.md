@@ -6,4 +6,4 @@ https://web2plus1.netlify.app/
 
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-
+<b>This is a simplified, secure and trusted platform where a customer can easily sell and buy cryptocurrencies (Ethereum, Coin Base, etc) without any hassle.</b>
