@@ -6,4 +6,4 @@ https://web2plus1.netlify.app/
 
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-<b>Blockchain<b>
+
