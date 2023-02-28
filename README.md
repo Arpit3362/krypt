@@ -17,3 +17,11 @@ https://web2plus1.netlify.app/
 <h3><b>Description:</b></h3><br>
 
 <b>This is a simplified, secure and trusted platform where a customer can easily sell and buy cryptocurrencies (Ethereum, Coin Base, etc) without any hassle.</b>
+
+<h3><b>Stack:</b></h3>
+
+<b>1) React JS</b>
+<b>2) Solidity</b>
+<b>3) HTML5</b>
+<b>4) CSS3</b>
+<b>5) Javascript</b>
