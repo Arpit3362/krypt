@@ -1,4 +1,4 @@
-### This project can be acccess live at below link
+### This project can be acccessed live at below link:
 
 https://web2plus1.netlify.app/
 
